@@ -1,4 +1,4 @@
 TRMM-GPTools
 ============
 
-Scripts for calculating TRMM composites from custom time parameteres
+Scripts for calculating TRMM composites from custom time parameters
